@@ -2,9 +2,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 import asyncio
 
-# to add new bot:
-# git clone https://github.com/andykras/gptbot.git bot3
-import bot1, bot2  #, bot3, ...
+import bot1, bot2
 
 tokens = [
     bot1.env.BOT_TOKEN,
