@@ -1,6 +1,8 @@
 [submodule "bot1"]
 	path = bot1
 	url = https://github.com/andykras/gptbot.git
+	branch = main
 [submodule "bot2"]
 	path = bot2
 	url = https://github.com/andykras/gptbot.git
+	branch = main
